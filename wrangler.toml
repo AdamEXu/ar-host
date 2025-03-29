@@ -1,0 +1,7 @@
+name = "ar-host"
+compatibility_date = "2025-03-28"
+
+[[r2_buckets]]
+binding = "PINEWOOD_ONE"
+bucket_name = "pinewood-one"
+preview_bucket_name = "pinewood-one"
